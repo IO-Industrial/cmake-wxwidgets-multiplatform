@@ -1,3 +1,3 @@
 # cmake-wxwidgets-multiplatform
 
-This is a 
+Single codebase UI app in C++ for Linux, Windows and MacOS.
